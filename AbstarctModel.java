@@ -9,7 +9,7 @@ public class AbstarctModel {
 	}
 
 	public void setId(long id) {
-		this.Id = Id;
+		this.Id = id;
 	}
 	
 
